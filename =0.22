@@ -1,5 +1,1 @@
-Collecting Cython
-  Using cached Cython-3.0.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.2 kB)
-Using cached Cython-3.0.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.6 MB)
-Installing collected packages: Cython
-Successfully installed Cython-3.0.9
+Requirement already satisfied: Cython in /home/abubakar/miniconda3/envs/datascience/lib/python3.8/site-packages (3.0.9)
